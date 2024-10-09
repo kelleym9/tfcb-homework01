@@ -12,7 +12,7 @@
 ## Bold
 **if something is important, I can make it bold**
 ## Table
-- Here is a markdown table:
+
 | Favorite Colors | Favorite Foods      | Favorite Musicians          |
 |-----------------|---------------------|-----------------------------|
 | Green           | Sushi               | Hozier                      |
