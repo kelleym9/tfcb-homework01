@@ -11,3 +11,9 @@
 [Kugel Lab](https://research.fredhutch.org/kugel/en.html)
 ## Bold
 **if something is important, I can make it bold**
+## Table
+- Here is a markdown table:
+|favorite colors|favorite foods|favorite musicians     |
+|---------------|--------------|-----------------------|
+|green          |sushi         |hozier                 |
+|blue           |burritos      |sammy rae & the friends|
