@@ -13,7 +13,8 @@
 **if something is important, I can make it bold**
 ## Table
 - Here is a markdown table:
-| favorite colors | favorite foods | favorite musicians |
-| --- | --- | --- |
-| green | sushi | hozier |
-| blue | burritos | sammy rae & the friends |
+| Favorite Colors | Favorite Foods      | Favorite Musicians          |
+|-----------------|---------------------|-----------------------------|
+| Green           | Sushi               | Hozier                      |
+| Blue            | Burritos            | Sammy Rae & The Friends     |
+
